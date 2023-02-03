@@ -22,3 +22,5 @@ N/A
 MIT
 
 <img src="./screenshot-for-readme.png">
+
+### click <a href= 'https://emilymora1207.github.io/DailyPlanner/'>here</a> to view this project.
